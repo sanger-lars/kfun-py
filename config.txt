@@ -1,0 +1,7 @@
+{ 
+    "sti": "D:/Karaoke alfa/Dansk",
+    "ignore_dir": ["KaraFun Player 2", "John", "DirLister", "Karaoke soteret"],
+    "ignore_ext": ["mp3", "MP3","wav", "WAV", "wma", "WMA", "m4a", "M4A","zip", "ZIP","TXT", "txt", "DOC", "doc", "lng"],
+    "use_ext": "(cdg|kfn|mp4|avi|mpe?g|mp2|wmv|webm)$",
+    "font_size": 14
+}
